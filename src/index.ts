@@ -1,1 +1,3 @@
-console.log("hi there")
+import map from "./Map"
+import user from "./User"
+import company from "./Company"
